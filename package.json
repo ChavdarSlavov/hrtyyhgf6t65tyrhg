@@ -19,6 +19,7 @@
   "license": "ISC",
   "homepage": "https://github.com/ChavdarSlavov/hrtyyhgf6t65tyrhg/blob/master/README.md",
   "dependencies": {
+    "coveralls": "^2.11.9",
     "gulp": "^3.9.1",
     "gulp-clean": "^0.3.2",
     "gulp-exec": "^2.1.2",
