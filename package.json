@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "gulp test",
-    "ddd": "jsdoc --configure .jsdoc.json --verbose"
+    "do-docs": "jsdoc --configure .jsdoc.json --verbose"
   },
   "repository": {
     "type": "git",
