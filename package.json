@@ -4,7 +4,8 @@
   "description": "dfswt34tdrfggdf",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "gulp test",
+    "ddd": "jsdoc --configure .jsdoc.json --verbose"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,23 @@
   "license": "ISC",
   "homepage": "https://github.com/ChavdarSlavov/hrtyyhgf6t65tyrhg/blob/master/README.md",
   "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-exec": "^2.1.2",
+    "gulp-istanbul": "^0.10.4",
+    "gulp-jsdoc": "^0.1.5",
+    "gulp-jshint": "^2.0.0",
+    "gulp-mocha": "^2.2.0",
+    "gulp-plato": "^1.0.2",
+    "istanbul": "^0.4.3",
+    "jshint": "^2.9.2",
+    "minami": "^1.1.1"
+  },
+  "devDependencies": {
+    "jscs": "^3.0.3",
+    "jscs-jsdoc": "^2.0.0",
+    "jsdoc": "^3.4.0",
+    "nyc": "^6.4.2",
+    "should": "^8.3.1"
   }
 }

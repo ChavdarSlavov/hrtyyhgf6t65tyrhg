@@ -1,0 +1,10 @@
+{
+  "validateIndentation": 4,
+  "plugins": [
+    "jscs-jsdoc"
+  ],
+  "jsDoc": {
+    "checkTypes": "strictNativeCase",
+    "enforceExistence": false
+  }
+}
