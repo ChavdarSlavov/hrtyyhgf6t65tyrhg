@@ -1,9 +1,9 @@
 /*global describe*/
 /*global require*/
 /*global it*/
+'use strict';
 
 describe('my first test suite', function () {
-    'use strict';
 
     var calc = require('../lib/calc'),
     	should = require('should');
