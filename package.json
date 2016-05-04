@@ -2,7 +2,7 @@
   "name": "dfswt34tdrfggdf",
   "version": "0.0.1",
   "description": "dfswt34tdrfggdf",
-  "main": "./lib/calc.js",
+  "main": "./lib",
   "scripts": {
     "test": "gulp test",
     "do-docs": "jsdoc --configure .jsdoc.json --verbose"
@@ -12,13 +12,15 @@
     "url": "git+https://github.com/ChavdarSlavov/hrtyyhgf6t65tyrhg.git"
   },
   "keywords": [
-    "lol",
-    "stats"
+    "alofsdfl",
+    "sdastatdsadass"
   ],
   "author": "Chavdar Slavov",
   "license": "ISC",
   "homepage": "https://github.com/ChavdarSlavov/hrtyyhgf6t65tyrhg/blob/master/README.md",
   "dependencies": {
+  },
+  "devDependencies": {
     "coveralls": "^2.11.9",
     "gulp": "^3.9.1",
     "gulp-clean": "^0.3.2",
@@ -30,9 +32,7 @@
     "gulp-plato": "^1.0.2",
     "istanbul": "^0.4.3",
     "jshint": "^2.9.2",
-    "minami": "^1.1.1"
-  },
-  "devDependencies": {
+    "minami": "^1.1.1",
     "jscs": "^3.0.3",
     "jscs-jsdoc": "^2.0.0",
     "jsdoc": "^3.4.0",
