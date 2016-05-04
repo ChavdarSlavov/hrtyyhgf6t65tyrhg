@@ -2,7 +2,7 @@
   "name": "dfswt34tdrfggdf",
   "version": "0.0.1",
   "description": "dfswt34tdrfggdf",
-  "main": "lib/calc.js",
+  "main": "./lib",
   "scripts": {
     "test": "gulp test",
     "do-docs": "jsdoc --configure .jsdoc.json --verbose"
